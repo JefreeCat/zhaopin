@@ -10,6 +10,7 @@
 1. 基于spring boot，orm使用jpa(mybatis)
 2. db可选（mysql，h2，mongdb），数据可自行构造
 3. 实现功能需求的REST API
+
 加分项：
 4. 合理的使用设计模式实现功能
 5. Domain Model实现
